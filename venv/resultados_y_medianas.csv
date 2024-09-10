@@ -1,0 +1,26 @@
+municipio,departamento,cultivo,topografia
+CHITA,BOYACÁ,Café,Plano
+CHITA,BOYACÁ,Café,Plano
+CHITA,BOYACÁ,Café,Pendiente
+
+Variable,Mediana
+"pH_agua:suelo 2,5:1,0",5.83
+Materia_organica (MO) %,7.161022361297648
+Fosforo (P) Bray II mg/kg,14.381735211267609
+Azufre (S) Fosfato monocalcico mg/kg,3.821989528795812
+Acidez (Al+H) KCL cmol(+)/kg,0.703779557270444
+Aluminio (Al) intercambiable cmol(+)/kg,0.5125555117674544
+calcio_ca_intercambiable_cmol_kg,17.45342609
+Potasio (K) intercambiable cmol(+)/kg,0.3457105919999999
+Sodio (Na) intercambiable cmol(+)/kg,
+capacidad de intercambio cationico (CICE) suma de bases cmol(+)/kg,21.727740152000003
+"Conductividad electrica (CE) relacion 2,5:1,0 dS/m",0.3207388
+Hierro (Fe) disponible olsen mg/kg,466.015
+Cobre (Cu) disponible mg/kg,
+Manganeso (Mn) disponible Olsen mg/kg,5.261
+Zinc (Zn) disponible Olsen mg/kg,12.689
+Boro (B) disponible mg/kg,0.1523605150214592
+Hierro (Fe) disponible doble acido mg/kg,
+Cobre (Cu) disponible doble acido mg/kg,
+Manganeso (Mn) disponible doble acido mg/kg,
+Zinc (Zn) disponible doble  cido mg/kg,
